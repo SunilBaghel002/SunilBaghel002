@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m **Sunil Baghel**, an aspiring web developer with a knack for turning ideas into polished web experiences.  <br><br>From my first “Hello, world!” to shipping full-featured sites, I thrive on:<br><br>- 🔭 **Current Focus:** Crafting responsive, accessible websites that delight users on any device  <br>- 🌱 **What I’m Learning:** Deepening my grasp of modern JavaScript (ES6+), React.js, and Node.js  <br>- 🤝 **Collaboration:** Partnering with fellow devs and designers to build tools that solve real problems  <br>- 💬 **Ask Me About:** Front‑end fundamentals, CSS animations, API integrations, or how I stay motivated  <br>- 🚀 **My Mission:** To grow into a full‑stack engineer who bridges design and functionality with clean, maintainable code  <br>- ⚡ **Fun Fact:** I once built a 3D rotating gallery in pure CSS—and I’m still proud of those keyframes!
+👨‍💻 Hi, I'm Sunil Baghel — a passionate and driven web developer dedicated to transforming ideas into seamless and interactive digital experiences.<br><br>From writing my first "Hello, World!" to developing full-fledged web applications, I’ve found purpose in creating intuitive, responsive, and accessible user interfaces.<br><br>🔧 What I’m Working On<br>Designing and developing mobile‑first websites that offer consistent, high-quality experiences across all devices and screen sizes.<br><br>📚 Currently Learning<br>Advancing my expertise in JavaScript (ES6+), React.js, and Node.js to build scalable and maintainable web applications.<br><br>🤝 Team Collaboration<br>Collaborating with designers, developers, and project stakeholders to build practical tools that solve real-world challenges.<br><br>💡 Ask Me About<br>Front-end development fundamentals<br><br>CSS animations and transitions<br><br>RESTful API integration<br><br>Staying consistent and motivated as a self-learner<br><br>🚀 Career Goal<br>To evolve into a full-stack engineer who bridges the gap between design and functionality using clean, efficient, and scalable code.<br><br>🎯 Fun Fact<br>I built a fully functional 3D rotating image gallery using only CSS—and it still stands as one of my proudest frontend experiments!
 
 
 ## 🌐 Socials:
@@ -17,6 +17,9 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SunilBaghel002 &limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sunilbaghel002&icon=3&color=0)](https://visitcount.itsvg.in)
