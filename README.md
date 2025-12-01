@@ -106,7 +106,7 @@ const sunil = {
 <div align="center">
   
   <!-- GitHub Stats Card - FIXED -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SunilBaghel002&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SunilBaghel002&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   
   <!-- Streak Stats - FIXED -->
   <img width="49%" src="https://streak-stats.demolab.com?user=SunilBaghel002&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak"/>
@@ -118,7 +118,7 @@ const sunil = {
 <div align="center">
   
   <!-- Top Languages - FIXED with better layout -->
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunilBaghel002&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&layout=donut&langs_count=8" alt="Top Languages"/>
+ <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SunilBaghel002&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&layout=donut&langs_count=8" alt="Top Languages"/></div>
   
 </div>
 
@@ -154,14 +154,7 @@ const sunil = {
 
 ## 📌 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/SunilBaghel002/Blood-Donation">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SunilBaghel002&repo=Blood-Donation&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
-  </a>
-  <a href="https://github.com/SunilBaghel002/Sankalp">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SunilBaghel002&repo=Sankalp&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
-  </a>
-</div>
+<div align="center"> <a href="https://github.com/SunilBaghel002/Blood-Donation"> <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=SunilBaghel002&repo=Blood-Donation&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" /> </a> <a href="https://github.com/SunilBaghel002/Sankalp"> <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=SunilBaghel002&repo=Sankalp&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" /> </a> </div><div align="center"> <a href="https://github.com/SunilBaghel002/SunilBaghel002"> <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=SunilBaghel002&repo=SunilBaghel002&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" /> </a> <a href="https://github.com/SunilBaghel002/Skill-Shastra"> <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=SunilBaghel002&repo=Skill-Shastra&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" /> </a> </div>
 
 ---
 
