@@ -155,10 +155,10 @@ const sunil = {
 ## 📌 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/SunilBaghel002/your-project-1">
+  <a href="https://github.com/SunilBaghel002/Blood-Donation">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SunilBaghel002&repo=your-project-1&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
   </a>
-  <a href="https://github.com/SunilBaghel002/your-project-2">
+  <a href="https://github.com/SunilBaghel002/Sankalp">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SunilBaghel002&repo=your-project-2&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
   </a>
 </div>
