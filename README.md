@@ -2,37 +2,51 @@
 <div align="center">
   
   <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋%20I'm%20Sunil%20Baghel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:833ab4,50:fd1d1d,100:fcb045&height=200&section=header&text=Sunil%20Baghel&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descAlignY=52&descSize=18"/>
 
 </div>
 
-<!-- Typing SVG -->
+<!-- Typing SVG - SLOWER & SMOOTHER -->
 <p align="center">
   <a href="https://github.com/SunilBaghel002">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=440&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Things;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=3000&color=F7B93E&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Sunil+Baghel;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SunilBaghel002">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Web+Developer+%F0%9F%92%BB;MERN+Stack+Enthusiast+%E2%9A%9B%EF%B8%8F;Building+Cool+Stuff+with+Code+%F0%9F%9A%80;Always+Learning+New+Technologies+%F0%9F%93%9A" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-## 💫 About Me
+## 🧑‍💻 About Me
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```javascript
 const sunil = {
     pronouns: "He" | "Him",
     location: "Delhi NCR, India 🇮🇳",
-    currentFocus: "Building Full-Stack Web Applications",
-    learning: ["Next.js", "TypeScript", "Web3"],
-    askMeAbout: ["Web Dev", "JavaScript", "React", "Node.js"],
-    funFact: "I debug with console.log and I'm proud of it! 🐛"
+    roles: ["Full Stack Developer", "Web Enthusiast"],
+    currentlyLearning: ["Next.js", "TypeScript", "Web3"],
+    askMeAbout: ["JavaScript", "React", "Node.js", "MongoDB"],
+    hobbies: ["Coding", "Problem Solving", "Learning"],
+    funFact: "I debug with console.log and I'm proud! 🐛"
 };
 ```
 
-- 🔭 Currently working on **exciting web projects**
-- 🌱 Learning **Next.js, TypeScript & Advanced React Patterns**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
-- ⚡ Fun fact: **I turn coffee into code ☕→💻**
+<br>
+
+- 🔭 Currently working on **Full-Stack Web Applications**
+- 🌱 Learning **Next.js, TypeScript & Advanced Patterns**
+- 👯 Open to **collaborate on Open Source Projects**
+- 💬 Ask me about **JavaScript, React, Node.js**
+- 📫 Reach me at **sunilbaghel93100@gmail.com**
+- ⚡ Fun fact: **Coffee → Code → Repeat ☕**
+
+<br clear="both">
 
 ---
 
@@ -40,16 +54,16 @@ const sunil = {
 
 <p align="center">
   <a href="https://linkedin.com/in/sunil-baghel-140a60348/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
   <a href="https://instagram.com/sunilbaghel5075" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
+  </a>&nbsp;
   <a href="mailto:sunilbaghel93100@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>&nbsp;
   <a href="https://github.com/SunilBaghel002" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -57,41 +71,33 @@ const sunil = {
 
 ## 💻 Tech Stack
 
-### 👨‍💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### 🚀 Languages
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,solidity,html,css&perline=8&theme=dark" />
+  </a>
+</p>
 
-### ⚛️ Frameworks & Libraries
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+### ⚡ Frameworks & Libraries
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,vite&perline=6&theme=dark" />
+  </a>
+</p>
 
 ### 🗄️ Database & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,vercel,firebase&perline=6&theme=dark" />
+  </a>
+</p>
 
 ### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-![Nodemon](https://img.shields.io/badge/Nodemon-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm,arduino&perline=7&theme=dark" />
+  </a>
+</p>
 
 ---
 
@@ -99,18 +105,20 @@ const sunil = {
 
 <div align="center">
   
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SunilBaghel002&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub Stats" height="180"/>
+  <!-- GitHub Stats Card - FIXED -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SunilBaghel002&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SunilBaghel002&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+  <!-- Streak Stats - FIXED -->
+  <img width="49%" src="https://streak-stats.demolab.com?user=SunilBaghel002&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak"/>
   
 </div>
 
+<br>
+
 <div align="center">
   
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunilBaghel002&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=donut-vertical&langs_count=8" alt="Top Languages" height="320"/>
+  <!-- Top Languages - FIXED with better layout -->
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunilBaghel002&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&layout=donut&langs_count=8" alt="Top Languages"/>
   
 </div>
 
@@ -119,7 +127,7 @@ const sunil = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SunilBaghel002&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SunilBaghel002&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true&area_color=F85D7F" width="100%" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -127,7 +135,7 @@ const sunil = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SunilBaghel002&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&margin-h=10&column=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SunilBaghel002&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4&row=2" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -135,7 +143,24 @@ const sunil = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SunilBaghel002/SunilBaghel002/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SunilBaghel002/SunilBaghel002/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SunilBaghel002/SunilBaghel002/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/SunilBaghel002/SunilBaghel002/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/SunilBaghel002/your-project-1">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SunilBaghel002&repo=your-project-1&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+  </a>
+  <a href="https://github.com/SunilBaghel002/your-project-2">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SunilBaghel002&repo=your-project-2&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+  </a>
 </div>
 
 ---
@@ -143,27 +168,34 @@ const sunil = {
 ## ✍️ Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=0D1117&border_color=F85D7F" alt="Dev Quote"/>
 </div>
 
 ---
 
-## 🎯 Current Goals for 2025
+## 🎯 Goals for 2025
 
-- [ ] Master Next.js 14 & Server Components
-- [ ] Contribute to 10+ Open Source Projects
-- [ ] Build a SaaS Product
-- [ ] Learn Docker & Kubernetes
-- [ ] Explore AI/ML Integration in Web Apps
+<div align="center">
+  
+| ✅ Status | 🎯 Goal |
+|:---------:|:--------|
+| 🔄 | Master Next.js 14 & Server Components |
+| 🔄 | Contribute to 15+ Open Source Projects |
+| 🔄 | Build & Launch a SaaS Product |
+| 🔄 | Learn Docker & Kubernetes |
+| 🔄 | Explore AI/ML Integration in Web Apps |
+| 🔄 | Get 500+ GitHub Followers |
+
+</div>
 
 ---
 
 <div align="center">
   
-  ### 💰 Support My Work
+  ## 💰 Support My Work
   
   <a href="https://buymeacoffee.com/sunilbaghel">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
   </a>
   
 </div>
@@ -172,10 +204,14 @@ const sunil = {
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=SunilBaghel002&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+  ### 👀 Profile Views
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  <img src="https://komarev.com/ghpvc/?username=SunilBaghel002&label=Profile%20Views&color=F85D7F&style=for-the-badge" alt="Profile Views"/>
+  
+  <br><br>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:833ab4,50:fd1d1d,100:fcb045&height=120&section=footer"/>
   
 </div>
 
-<!-- Made with ❤️ by Sunil Baghel -->
+<!-- ⭐ Made with ❤️ by Sunil Baghel ⭐ -->
