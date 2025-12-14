@@ -19,8 +19,6 @@
   </a>
 </p>
 
----
-
 ## 🧑‍💻 About Me
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
@@ -48,81 +46,20 @@ const sunil = {
 
 <br clear="both">
 
----
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/sunil-baghel-140a60348/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>&nbsp;
-  <a href="https://instagram.com/sunilbaghel5075" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>&nbsp;
-  <a href="mailto:sunilbaghel93100@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>&nbsp;
-  <a href="https://github.com/SunilBaghel002" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
----
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/sunilbaghel5075) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edin.com/in/sunil-baghel-140a60348/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sunilbaghel93100@gmail.com) 
 
 ## 💻 Tech Stack
 
-### 🚀 Languages
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,solidity,html,css&perline=8&theme=dark" />
-  </a>
-</p>
-
-### ⚡ Frameworks & Libraries
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,vite&perline=6&theme=dark" />
-  </a>
-</p>
-
-### 🗄️ Database & Cloud
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,vercel,firebase&perline=6&theme=dark" />
-  </a>
-</p>
-
-### 🛠️ Tools & Platforms
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm,arduino&perline=7&theme=dark" />
-  </a>
-</p>
-
----
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=plastic&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=plastic&logo=solidity&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white)
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-  <!-- GitHub Stats Card - FIXED -->
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SunilBaghel002&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  
-  <!-- Streak Stats - FIXED -->
-  <img width="49%" src="https://streak-stats.demolab.com?user=SunilBaghel002&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak"/>
-  
-</div>
-
-<br>
-
-<div align="center">
-  
-  <!-- Top Languages - FIXED with better layout -->
- <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SunilBaghel002&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&layout=donut&langs_count=8" alt="Top Languages"/></div>
-  
-</div>
-
----
+![](https://github-readme-stats.vercel.app/api?username=SunilBaghel002&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SunilBaghel002&theme=github_dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SunilBaghel002&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 📈 Contribution Graph
 
@@ -130,15 +67,8 @@ const sunil = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SunilBaghel002&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true&area_color=F85D7F" width="100%" alt="Contribution Graph"/>
 </div>
 
----
-
 ## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SunilBaghel002&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4&row=3" alt="GitHub Trophies"/>
-</div>
-
----
+![](https://github-profile-trophy.vercel.app/?username=Sunilbaghel002&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ## 🐍 Contribution Snake
 
@@ -150,23 +80,13 @@ const sunil = {
   </picture>
 </div>
 
----
-
-## 📌 Featured Projects
-
-<div align="center"> <a href="https://github.com/SunilBaghel002/Blood-Donation"> <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=SunilBaghel002&repo=Blood-Donation&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" /> </a> <a href="https://github.com/SunilBaghel002/Sankalp"> <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=SunilBaghel002&repo=Sankalp&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" /> </a> </div><div align="center"> <a href="https://github.com/SunilBaghel002/SunilBaghel002"> <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=SunilBaghel002&repo=SunilBaghel002&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" /> </a> <a href="https://github.com/SunilBaghel002/Skill-Shastra"> <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=SunilBaghel002&repo=Skill-Shastra&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" /> </a> </div>
-
----
-
 ## ✍️ Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=0D1117&border_color=F85D7F" alt="Dev Quote"/>
 </div>
 
----
-
-## 🎯 Goals for 2025
+## 🎯 Goals for 2026
 
 <div align="center">
   
@@ -180,20 +100,6 @@ const sunil = {
 | 🔄 | Get 500+ GitHub Followers |
 
 </div>
-
----
-
-<div align="center">
-  
-  ## 💰 Support My Work
-  
-  <a href="https://buymeacoffee.com/sunilbaghel">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-  </a>
-  
-</div>
-
----
 
 <div align="center">
   
