@@ -1,11 +1,11 @@
 <div align="center">
   
-  <!-- Animated Header - New Modern Color Scheme -->
+  <!-- Animated Header - Modern Purple-Blue Theme -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Sunil%20Baghel&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descAlignY=52&descSize=18"/>
 
 </div>
 
-<!-- Typing SVG - SLOWER & SMOOTHER -->
+<!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/SunilBaghel002">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=3000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Sunil+Baghel;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
@@ -102,22 +102,14 @@ const sunil = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SunilBaghel002&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff" height="180" alt="stats graph"/>
-  
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunilBaghel002&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=667eea&text_color=ffffff&langs_count=8" height="180" alt="languages graph"/>
-  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SunilBaghel002&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" height="180" alt="stats"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SunilBaghel002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" height="180" alt="languages"/>
 </div>
 
 <br>
 
 <div align="center">
-  
-  <!-- Streak Stats - Using working alternative -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SunilBaghel002&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=f093fb&currStreakLabel=667eea" alt="streak stats"/>
-  
+  <img src="https://streak-stats.demolab.com?user=SunilBaghel002&theme=tokyonight&hide_border=true&background=0D1117" alt="streak"/>
 </div>
 
 ---
@@ -133,7 +125,7 @@ const sunil = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SunilBaghel002&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=7" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SunilBaghel002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="trophies"/>
 </div>
 
 ---
@@ -153,7 +145,7 @@ const sunil = {
 ## ✍️ Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=0D1117&border_color=667eea" alt="Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </div>
 
 ---
@@ -180,12 +172,6 @@ const sunil = {
   ### 👀 Profile Views
   
   <img src="https://komarev.com/ghpvc/?username=SunilBaghel002&label=Profile%20Views&color=764ba2&style=for-the-badge" alt="Profile Views"/>
-  
-  <br><br>
-  
-  ### 🤝 Let's Connect!
-  
-  <img src="https://img.shields.io/badge/Made%20with-❤️-764ba2?style=for-the-badge" alt="Made with love"/>
   
   <br><br>
   
