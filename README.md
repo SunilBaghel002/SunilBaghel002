@@ -124,9 +124,7 @@ const sunil = {
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SunilBaghel002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="trophies"/>
-</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SunilBaghel002" alt="sunilbaghel002" /></a> </p>
 
 ---
 
