@@ -109,7 +109,7 @@ const sunil = {
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SunilBaghel002&theme=tokyonight&hide_border=true&background=0D1117" alt="streak"/>
+  <img src="nirzak-streak-stats.vercel.app?user=SunilBaghel002&theme=tokyonight&hide_border=true&background=0D1117" alt="streak"/>
 </div>
 
 ---
