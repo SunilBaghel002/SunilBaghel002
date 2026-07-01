@@ -73,16 +73,12 @@ const sunil = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SunilBaghel002&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" height="180" alt="stats"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SunilBaghel002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" height="180" alt="languages"/>
-</div>
+![](https://github-readme-stats.shion.dev/api?username=Sunilbaghel002&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Sunilbaghel002&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sunilbaghel002&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<br>
-
-<div align="center">
-  <img src="nirzak-streak-stats.vercel.app?user=SunilBaghel002&theme=tokyonight&hide_border=true&background=0D1117" alt="streak"/>
-</div>
+---
+[![](https://komarev.com/ghpvc/?username=Sunilbaghel002&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
