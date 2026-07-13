@@ -1,102 +1,178 @@
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- 🌟 SUNIL BAGHEL - GITHUB PROFILE README 🌟 -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
 <div align="center">
   
-  <!-- Animated Header - Modern Purple-Blue Theme -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Sunil%20Baghel&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descAlignY=52&descSize=18"/>
+  <!-- Animated Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Sunil%20Baghel&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Building%20in%20Public%20%7C%20395%2B%20Day%20Streak&descAlignY=52&descSize=16"/>
 
 </div>
 
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/SunilBaghel002">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=3000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Sunil+Baghel;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+there!+I'm+Sunil+%F0%9F%91%8B;Shipping+Code+Since+Day+1+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/SunilBaghel002">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=764BA2&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Web+Developer+%F0%9F%92%BB;MERN+Stack+Enthusiast+%E2%9A%9B%EF%B8%8F;Building+Cool+Stuff+with+Code+%F0%9F%9A%80;Always+Learning+New+Technologies+%F0%9F%93%9A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=F093FB&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%92%BB;Fintech+Builder+%F0%9F%92%B0;8x+Hackathon+Winner+%F0%9F%8F%86;Co-Founder+%40+Forgeweb+%E2%9A%A1;Learning+Agentic+AI+%F0%9F%A4%96" alt="Typing SVG" />
   </a>
+</p>
+
+<!-- Social Badges Row -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SunilBaghel002&label=Profile%20Views&color=764ba2&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/SunilBaghel002?label=Followers&style=for-the-badge&color=667eea" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Streak-395%2B%20Days-f093fb?style=for-the-badge&logo=github" alt="Streak"/>
+  <img src="https://img.shields.io/badge/Focus-Building%20SaaS-00C7B7?style=for-the-badge&logo=rocket" alt="Focus"/>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```javascript
 const sunil = {
-    pronouns: "He" | "Him",
+    role: "Full Stack Developer & Co-Founder",
+    company: "Forgeweb ⚡",
     location: "Delhi NCR, India 🇮🇳",
-    roles: ["Full Stack Developer", "Web Enthusiast"],
-    currentlyLearning: ["Next.js", "TypeScript", "Web3"],
-    askMeAbout: ["JavaScript", "React", "Node.js", "MongoDB"],
-    hobbies: ["Coding", "Problem Solving", "Learning"],
-    funFact: "I debug with console.log and I'm proud! 🐛"
+    education: "CSE Student | Graduating 2027",
+    
+    currentFocus: [
+        "Building AI SaaS 🤖",
+        "Scaling PayDeskNow 💸",
+        "Learning Agentic AI 🧠"
+    ],
+    
+    techStack: {
+        frontend: ["React", "Next.js", "TypeScript", "TailwindCSS"],
+        backend: ["Node.js", "Express", "FastAPI"],
+        database: ["MongoDB", "PostgreSQL", "Supabase"],
+        integrations: ["Razorpay", "AEPS", "WhatsApp Business API"]
+    },
+    
+    achievements: {
+        githubStreak: "395+ days 🔥",
+        hackathonsWon: 8,
+        productionApps: 5,
+        openSourceContribs: "28+ repos"
+    },
+    
+    philosophy: "Ship fast. Learn faster. Repeat.",
+    funFact: "I once coded for 48hrs straight in a hackathon ☕"
 };
 ```
 
 <br>
 
-- 🔭 Currently working on **Full-Stack Web Applications**
-- 🌱 Learning **Next.js, TypeScript & Advanced Patterns**
-- 👯 Open to **collaborate on Open Source Projects**
-- 💬 Ask me about **JavaScript, React, Node.js**
-- 📫 Reach me at **sunilbaghel93100@gmail.com**
-- ⚡ Fun fact: **Coffee → Code → Repeat ☕**
+- 🚀 **Currently Building:** AI-powered SaaS + scaling PayDeskNow (Fintech B2B)
+- 🌱 **Deep Diving Into:** Agentic AI, LangChain, Multi-Agent Systems
+- 💼 **Co-Founder** at [Forgeweb](https://github.com/official-forgeweb) — building for Bharat 🇮🇳
+- 🤝 **Open to:** Collaborations, Open Source, Freelance Projects, Internships
+- 💬 **Ask Me About:** MERN Stack, Fintech Integrations, WhatsApp API, Hackathons
+- 📫 **Reach Me:** sunilbaghel93100@gmail.com
+- ⚡ **Fun Fact:** I ship code before coffee ☕ → then more code
 
 <br clear="both">
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://instagram.com/sunilbaghel5075">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
   <a href="https://linkedin.com/in/sunil-baghel-140a60348/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://instagram.com/sunilbaghel5075">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
   <a href="mailto:sunilbaghel93100@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/SunilBaghel002">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-## 💻 Tech Stack
+## 🚀 Featured Projects
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=plastic&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=plastic&logo=react) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=plastic&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=plastic&logo=web3.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=plastic&logo=prettier&logoColor=black)
+<div align="center">
+
+| 🏗️ Project | 📝 Description | 🛠️ Stack |
+|:----------:|:---------------|:---------:|
+| **[PayDeskNow](https://github.com/official-forgeweb/PayDeskNow)** | B2B Fintech Platform — AEPS, Money Transfer, Bill Payments for CSC Retailers | `Next.js` `MongoDB` `Razorpay` |
+| **[Blood Donation](https://github.com/SunilBaghel002/Blood-Donation)** | Real-time blood donor matching platform | `MERN` `Socket.io` |
+| **AI Customer Bot** | WhatsApp-integrated AI support automation | `LangChain` `OpenAI` `WA API` |
+| **Forgeweb Suite** | Agency-grade web solutions for startups | `Next.js` `TypeScript` `Vercel` |
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 💻 Tech Arsenal
 
-![](https://github-readme-stats.shion.dev/api?username=Sunilbaghel002&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Sunilbaghel002&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sunilbaghel002&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### 🤖 AI / Web3
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+
+### ☁️ DevOps & Tools
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Sunilbaghel002&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 📊 The Grind, Visualized
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=SunilBaghel002&theme=react&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=667EEA&icon_color=F093FB&text_color=FFFFFF" width="49%"/>
+  <img src="https://streak-stats.demolab.com/?user=SunilBaghel002&theme=react&hide_border=true&background=0D1117&stroke=667EEA&ring=F093FB&fire=F093FB&currStreakLabel=667EEA" width="49%"/>
+
+</div>
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunilBaghel002&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=667EEA&text_color=FFFFFF" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SunilBaghel002&theme=react&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFFFFF" width="49%"/>
+
+</div>
 
 ---
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SunilBaghel002&bg_color=0D1117&color=667eea&line=764ba2&point=f093fb&area=true&hide_border=true&area_color=764ba2" width="100%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SunilBaghel002&bg_color=0D1117&color=667eea&line=f093fb&point=ffffff&area=true&hide_border=true&area_color=764ba2" width="100%" alt="Contribution Graph"/>
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SunilBaghel002" alt="sunilbaghel002" /></a> </p>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SunilBaghel002&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub Trophies" />
+  </a>
+</div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Watch My Contributions Get Eaten
 
 <div align="center">
   <picture>
@@ -108,39 +184,50 @@ const sunil = {
 
 ---
 
-## ✍️ Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-</div>
-
----
-
-## 🎯 Goals for 2026
+## 🎯 2026 Goals
 
 <div align="center">
   
-| ✅ Status | 🎯 Goal |
-|:---------:|:--------|
-| 🔄 | Master Next.js 14 & Server Components |
-| 🔄 | Contribute to 15+ Open Source Projects |
-| 🔄 | Build & Launch a SaaS Product |
-| 🔄 | Learn Docker & Kubernetes |
-| 🔄 | Explore AI/ML Integration in Web Apps |
-| 🔄 | Get 500+ GitHub Followers |
+| Status | Goal | Progress |
+|:------:|:-----|:--------:|
+| 🔥 | Reach 500+ Day GitHub Streak | ▓▓▓▓▓▓▓▓░░ 79% |
+| 🚀 | Launch a Profitable SaaS Product | ▓▓▓░░░░░░░ 30% |
+| 🤖 | Master Agentic AI & Ship AI Product | ▓▓░░░░░░░░ 20% |
+| 🌍 | 50+ Open Source Contributions | ▓▓▓▓▓▓░░░░ 56% |
+| 💼 | Land Dream SWE Internship | ▓▓▓▓░░░░░░ 40% |
+| 📚 | Write 50+ Technical Blogs | ▓░░░░░░░░░ 10% |
+| 🏆 | Win 3 More Hackathons | ▓▓▓▓▓▓▓░░░ 66% |
 
 </div>
 
 ---
 
+## ✍️ Dev Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+</div>
+
+---
+
+## 💡 Currently Reading / Learning
+
 <div align="center">
   
-  ### 👀 Profile Views
+📚 **"Designing Data-Intensive Applications"** — Martin Kleppmann  
+🎥 **Andrew Ng's Agentic AI Course**  
+🎧 **The Lex Fridman Podcast** (for AI perspectives)
+
+</div>
+
+---
+
+<div align="center">
+
+  ### 💌 "Show up on Day 2. Everything else follows."
   
-  <img src="https://komarev.com/ghpvc/?username=SunilBaghel002&label=Profile%20Views&color=764ba2&style=for-the-badge" alt="Profile Views"/>
+  <br>
   
-  <br><br>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70"/>
   
 </div>
